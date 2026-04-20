@@ -1,0 +1,6 @@
+.venv/
+.venv_test_cursor/
+__pycache__/
+*.py[cod]
+uploads/
+*.log
